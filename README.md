@@ -53,5 +53,6 @@ Le Groenland est coloré en gris pour indiquer l'absence de données.
 ## 🔗 Ressources
 
 Données FIDE : https://ratings.fide.com/topfed.phtml?tops=0&ina=1&country=
+
 Données de population sur Wikipedia : https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
 
