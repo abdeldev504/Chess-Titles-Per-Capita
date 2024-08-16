@@ -33,9 +33,11 @@ Pour exécuter le projet, vous aurez besoin de :
    git clone https://github.com/votre_nom_utilisateur/Chess-Titles-Per-Capita.git
 
 2. Installer les dépendances requises :
+   ```bash
    pip install pandas requests beautifulsoup4 geopandas matplotlib shapely
 
 3. Exécutez le script principal :
+   ```bash
    python map_fide_population.py
 
 ## 🔍 Détails de l'analyse
@@ -44,12 +46,12 @@ Le script analyse les données des titres d'échecs en se basant sur les donnée
 
 ## 📈 Résultats clés
 
-    Les pays avec une densité élevée de titres par habitant sont mis en évidence en vert foncé.
-    Les pays avec une faible densité de titres par habitant sont en rouge.
-    Le Groenland est coloré en gris pour indiquer l'absence de données.
+Les pays avec une densité élevée de titres par habitant sont mis en évidence en vert foncé.
+Les pays avec une faible densité de titres par habitant sont en rouge.
+Le Groenland est coloré en gris pour indiquer l'absence de données.
 
 ## 🔗 Ressources
 
-    Données FIDE : https://ratings.fide.com/topfed.phtml?tops=0&ina=1&country=
-    Données de population sur Wikipedia : https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
+Données FIDE : https://ratings.fide.com/topfed.phtml?tops=0&ina=1&country=
+Données de population sur Wikipedia : https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
 
