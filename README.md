@@ -46,6 +46,11 @@ Le script analyse les données des titres d'échecs en se basant sur les donnée
 
 ## 📈 Résultats clés
 
+![Carte titres d'échecs par million d'habitants](Carte_Echecs_FIDE.png)
+
+*Figure 1 : Carte de nombre de titres d'échecs par million d'habitants*
+
+
 Les pays avec une densité élevée de titres par habitant sont mis en évidence en vert foncé.
 Les pays avec une faible densité de titres par habitant sont en rouge.
 Le Groenland est coloré en gris pour indiquer l'absence de données.
